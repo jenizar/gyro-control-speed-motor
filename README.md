@@ -14,3 +14,5 @@ arduino nano, mpu-6050, ic l293d, lcd 20x4 i2c, motor dc, breadboard, jumper cab
 Reference:
 
 https://how2electronics.com/dc-motor-control-arduino-mpu6050-gyro-accelerometer/
+
+https://www.instagram.com/p/ClH8mWoBSD2/
